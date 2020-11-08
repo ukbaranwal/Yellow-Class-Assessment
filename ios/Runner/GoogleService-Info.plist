@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>388811518664-g91dcdfstlh04cvhbkstjlqjp0u8bf9q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.388811518664-g91dcdfstlh04cvhbkstjlqjp0u8bf9q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>388811518664-snii7ibq7p199u8gura6d97mmrqef2ea.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOrwp84XFn6tx7yrvaSJZjGBul1HhMu68</string>
+	<key>GCM_SENDER_ID</key>
+	<string>388811518664</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.utkarsh.yellowClassVideoApp</string>
+	<key>PROJECT_ID</key>
+	<string>yellow-class-video-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yellow-class-video-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:388811518664:ios:6e22b66e424682a5a56bfd</string>
+	<key>DATABASE_URL</key>
+	<string>https://yellow-class-video-app.firebaseio.com</string>
+</dict>
+</plist>
